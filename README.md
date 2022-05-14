@@ -4,6 +4,12 @@ Math magicians" is a website for all fans of mathematics. It is a Single Page Ap
 Make simple calculations.
 Read a random math-related quote. 
 
+# Screenshot 
+
+![e68](https://user-images.githubusercontent.com/40554384/168449474-e6f52548-b884-4339-b75a-3d8047586c7d.PNG)
+
+![e69](https://user-images.githubusercontent.com/40554384/168449500-5f2a1b55-0bd2-45a7-9cfa-c1f15312adf8.PNG)
+
 
 ## Built With
 
