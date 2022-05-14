@@ -41,7 +41,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/oshanedesign) 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/oshane-design-ab2631237)
 - Twitter: [@twitterhandle](https://twitter.com/oshanedesign)
-- YouTube: [@youtube](https://www.youtube.com/channelUCKEzfINidt1ob7xTOwIS_cA)
 
 
 ## Show your support
